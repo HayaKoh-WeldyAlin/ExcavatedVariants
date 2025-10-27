@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Autunite",
-    "ja_jp": "%sオーチュナイト"
+    "ja_jp": "%sオーチュナイト鉱石"
   },
   "blocks": {
     "geolosys:autunite_ore": "excavated_variants:minecraft/stone",
