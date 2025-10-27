@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Coal",
-    "ja_jp": "%s石炭鉱石"
+    "ja_jp": "%s石炭"
   },
   "blocks": {
     "geolosys:deepslate_coal_ore": "excavated_variants:minecraft/deepslate",
