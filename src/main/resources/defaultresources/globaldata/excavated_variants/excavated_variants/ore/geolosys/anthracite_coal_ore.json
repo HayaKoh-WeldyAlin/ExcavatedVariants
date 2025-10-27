@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Anthracite Coal",
-    "ja_jp": "%s無煙炭鉱石"
+    "ja_jp": "%s無煙炭"
   },
   "blocks": {
     "geolosys:deepslate_anthracite_coal_ore": "excavated_variants:minecraft/deepslate",
