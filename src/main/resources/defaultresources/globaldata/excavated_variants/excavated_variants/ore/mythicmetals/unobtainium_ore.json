@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Unobtainium Ore",
-    "ja_jp": "%sアンオブテイニウム鉱石
+    "ja_jp": "%sアンオブテイニウム鉱石"
   },
   "blocks": {
     "mythicmetals:unobtainium_ore": "excavated_variants:minecraft/stone",
