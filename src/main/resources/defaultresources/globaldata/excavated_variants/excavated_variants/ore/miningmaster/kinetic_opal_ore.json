@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Kinetic Opal Ore",
-    "ja_jp": "%sキネティックっパール"
+    "ja_jp": "%sキネティックオパール"
   },
   "blocks": {
     "miningmaster:kinetic_opal_ore": "excavated_variants:minecraft/netherrack"
