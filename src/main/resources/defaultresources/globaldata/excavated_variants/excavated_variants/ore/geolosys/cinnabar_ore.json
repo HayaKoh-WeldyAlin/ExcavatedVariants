@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Cinnabar",
-    "ja_jp": "%s辰砂鉱石"
+    "ja_jp": "%s辰砂"
   },
   "blocks": {
     "geolosys:cinnabar_ore": "excavated_variants:minecraft/stone",
