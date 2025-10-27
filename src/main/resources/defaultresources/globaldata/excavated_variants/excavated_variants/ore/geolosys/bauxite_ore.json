@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Bauxite",
-    "ja_jp": "%sボーキサイト"
+    "ja_jp": "%sボーキサイト鉱石"
   },
   "blocks": {
     "geolosys:bauxite_ore": "excavated_variants:minecraft/stone",
