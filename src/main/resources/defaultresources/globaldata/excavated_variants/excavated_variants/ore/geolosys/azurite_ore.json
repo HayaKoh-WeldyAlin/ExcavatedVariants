@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Azurite",
-    "ja_jp": "%sアズライト"
+    "ja_jp": "%sアズライト鉱石"
   },
   "blocks": {
     "geolosys:deepslate_azurite_ore": "excavated_variants:minecraft/deepslate",
