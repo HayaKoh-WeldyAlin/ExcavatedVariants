@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Hematite",
-    "ja_jp": "%sヘマタイト鉱石"
+    "ja_jp": "%sヘマタイト"
   },
   "blocks": {
     "geolosys:deepslate_hematite_ore": "excavated_variants:minecraft/deepslate",
