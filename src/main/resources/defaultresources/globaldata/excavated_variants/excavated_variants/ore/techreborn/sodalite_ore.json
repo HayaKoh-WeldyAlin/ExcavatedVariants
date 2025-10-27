@@ -3,7 +3,8 @@
     "excavated_variants:end"
   ],
   "translations": {
-    "en_us": "Sodalite Ore"
+    "en_us": "Sodalite Ore",
+    "ja_jp": "%sソーダライト鉱石"
   },
   "blocks": {
     "techreborn:sodalite_ore": "excavated_variants:minecraft/end_stone"
