@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Ancient Debris",
-    "ja_jp": "%s古代の残骸鉱石"
+    "ja_jp": "%s古代の残骸"
   },
   "blocks": {
     "geolosys:ancient_debris_ore": "excavated_variants:minecraft/netherrack"
