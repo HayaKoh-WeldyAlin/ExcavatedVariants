@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Beryl",
-    "ja_jp": "%sベリル鉱石"
+    "ja_jp": "%sベリル"
   },
   "blocks": {
     "geolosys:deepslate_beryl_ore": "excavated_variants:minecraft/deepslate",
