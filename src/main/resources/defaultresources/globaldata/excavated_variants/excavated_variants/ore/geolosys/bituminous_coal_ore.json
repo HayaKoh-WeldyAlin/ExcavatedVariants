@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Bituminous Coal",
-    "ja_jp": "%s瀝青炭"
+    "ja_jp": "%s瀝青炭鉱石"
   },
   "blocks": {
     "geolosys:deepslate_bituminous_coal_ore": "excavated_variants:minecraft/deepslate",
