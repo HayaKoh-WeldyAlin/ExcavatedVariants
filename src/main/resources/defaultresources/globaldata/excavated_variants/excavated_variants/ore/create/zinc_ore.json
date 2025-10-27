@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Zinc Ore",
-    "ja_jp": "%s鉛鉱石"
+    "ja_jp": "%s亜鉛鉱石"
   },
   "blocks": {
     "create:zinc_ore": {
