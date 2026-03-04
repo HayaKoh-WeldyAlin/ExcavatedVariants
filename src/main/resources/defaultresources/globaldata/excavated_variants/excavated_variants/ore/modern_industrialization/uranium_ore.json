@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Uranium Ore",
-    "ja_jp": "%sタングステン鉱石"
+    "ja_jp": "%sウラン鉱石"
   },
   "blocks": {
     "modern_industrialization:uranium_ore": "excavated_variants:minecraft/stone",
