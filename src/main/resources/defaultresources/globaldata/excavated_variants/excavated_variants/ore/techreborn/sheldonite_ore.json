@@ -7,7 +7,8 @@
     "ja_jp": "%sシェルドナイト鉱石"
   },
   "blocks": {
-    "techreborn:sheldonite_ore": "excavated_variants:minecraft/end_stone"
+    "techreborn:sheldonite_ore": "excavated_variants:minecraft/end_stone",
+    "techreborn:deepslate_sheldonite_ore": "excavated_variants:minecraft/deepslate"
   },
   "tags": [
     "c:ores/sheldonite"
