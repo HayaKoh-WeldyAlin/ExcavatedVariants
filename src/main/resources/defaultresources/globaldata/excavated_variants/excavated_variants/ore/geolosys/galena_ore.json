@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Galena",
-    "ja_jp": "%sガレナ"
+    "ja_jp": "%s方鉛鉱"
   },
   "blocks": {
     "geolosys:deepslate_galena_ore": "excavated_variants:minecraft/deepslate",
