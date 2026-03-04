@@ -7,7 +7,8 @@
     "ja_jp": "%s方ソーダ石"
   },
   "blocks": {
-    "techreborn:sodalite_ore": "excavated_variants:minecraft/end_stone"
+    "techreborn:sodalite_ore": "excavated_variants:minecraft/end_stone",
+    "techreborn:deepslate_sodalite_ore": "excavated_variants:minecraft/deepslate"
   },
   "tags": [
     "c:ores/sodalite"
