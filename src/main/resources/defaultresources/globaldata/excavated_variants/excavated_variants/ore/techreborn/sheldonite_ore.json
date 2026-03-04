@@ -4,7 +4,7 @@
   ],
   "translations": {
     "en_us": "Sheldonite Ore",
-    "ja_jp", "%sシェルドナイト鉱石"
+    "ja_jp": "%sシェルドナイト鉱石"
   },
   "blocks": {
     "techreborn:sheldonite_ore": "excavated_variants:minecraft/end_stone"
